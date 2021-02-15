@@ -1,10 +1,8 @@
 # Group 3 project based on Coronavirus (Covid-19) Data in the United States
 
-**Change:** As of Feb. 10, 2021, we are changing how we report data for a few low-population Alaska geographies to better align with how the state reports data. Data for Bristol Bay Borough and Lake and Peninsula Borough are combined in a new area called "Bristol Bay plus Lake and Peninsula", and data for Yakutat City and Borough and Hoonah-Angoon Census Area are combined as "Yakutat plus Hoonah-Angoon". Many cases now assigned to those new geographies were previously reported as Unknown. The entire timeseries will be revised to use these new geographies.
+**NEW:** The "clean-data" folder contains the data we cleaned and reorganized for this project.
 
-**NEW:** We are publishing the data behind our [survey of mask usage](https://www.nytimes.com/interactive/2020/07/17/upshot/coronavirus-face-mask-map.html) in the United States in order to provide researchers a way to understand the role of mask wearing in the course of the pandemic. See the data and documentation in the [mask-use/](mask-use/) directory.
-
-**NEW:** We are publishing the data behind our [excess deaths tracker](https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html) in order to provide researchers and the public with a better record of the true toll of the pandemic. This data is compiled from official national and municipal data for 24 countries. See the data and documentation in the [excess-deaths/](excess-deaths/) directory.
+**NEW:** In "MS1_SIRD.ipynb" and "MS1_feature+studying.ipynb" you can find the source code for data cleaning and EDA.
 
 ---
 
