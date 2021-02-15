@@ -1,4 +1,4 @@
-# Coronavirus (Covid-19) Data in the United States
+# Group 3 project based on Coronavirus (Covid-19) Data in the United States
 
 **Change:** As of Feb. 10, 2021, we are changing how we report data for a few low-population Alaska geographies to better align with how the state reports data. Data for Bristol Bay Borough and Lake and Peninsula Borough are combined in a new area called "Bristol Bay plus Lake and Peninsula", and data for Yakutat City and Borough and Hoonah-Angoon Census Area are combined as "Yakutat plus Hoonah-Angoon". Many cases now assigned to those new geographies were previously reported as Unknown. The entire timeseries will be revised to use these new geographies.
 
